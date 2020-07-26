@@ -1,0 +1,14 @@
+{
+    "name": "rzz/addressbook",
+    "description": "basic crud app",
+    "type": "project",
+    "require": {
+        "ext-sqlite3": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "raaznn",
+            "email": "raaznn.sharma@gmail.com"
+        }
+    ]
+}
